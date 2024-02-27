@@ -1,11 +1,17 @@
 # ComfyUI-Prompt-Preview
-- [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler)的风格可以显示预览图！！！
-    - SDXL Prompt Styler
-![SDXL Prompt Styler](./assets/image1.png)
-    - SDXL Prompt Styler Advanced
-![SDXL Prompt Styler Advanced](./assets/image2.png)
-> 本项目中所有的预览图均有sdxl 1.0 生成。
+Welcome to ComfyUI Prompt Preview, where you can visualize the styles from [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler).
+![demo](./assets/demo.gif)
 
-## 参考来源
+## Overview
+This repository provides a glimpse into the styles offered by **SDXL Prompt Styler**, showcasing its capabilities through preview images. Take a look at how your prompts could appear with the various styles available.
+
+## Preview Images
+- **SDXL Prompt Styler**
+![SDXL Prompt Styler](./assets/image1.png)
+- **SDXL Prompt Styler**
+![SDXL Prompt Styler Advanced](./assets/image2.png)
+
+## References
 - [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler)
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
+- All preview images in this project were generated using sdxl 1.0.
